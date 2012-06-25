@@ -4,7 +4,15 @@ This project contains a standard set of map marker drawables/icons for Android a
 
 ## Examples
 
+XHDPI (44x44):
+
 <img src="http://github.com/geerlingguy/Android-Map-Marker-Drawables/raw/master/drawable-xhdpi/map_marker_red.png" alt="Map Marker - Red" /> <img src="http://github.com/geerlingguy/Android-Map-Marker-Drawables/raw/master/drawable-xhdpi/map_marker_green.png" alt="Map Marker - Green" /> <img src="http://github.com/geerlingguy/Android-Map-Marker-Drawables/raw/master/drawable-xhdpi/map_marker_purple.png" alt="Map Marker - Purple" /> <img src="http://github.com/geerlingguy/Android-Map-Marker-Drawables/raw/master/drawable-xhdpi/map_marker_blue.png" alt="Map Marker - Blue" /> <img src="http://github.com/geerlingguy/Android-Map-Marker-Drawables/raw/master/drawable-xhdpi/map_marker_yellow.png" alt="Map Marker - Yellow" />
+
+HDPI (32x32):
+
+<img src="http://github.com/geerlingguy/Android-Map-Marker-Drawables/raw/master/drawable-hdpi/map_marker_red.png" alt="Map Marker - Red" /> <img src="http://github.com/geerlingguy/Android-Map-Marker-Drawables/raw/master/drawable-hdpi/map_marker_green.png" alt="Map Marker - Green" /> <img src="http://github.com/geerlingguy/Android-Map-Marker-Drawables/raw/master/drawable-hdpi/map_marker_purple.png" alt="Map Marker - Purple" /> <img src="http://github.com/geerlingguy/Android-Map-Marker-Drawables/raw/master/drawable-hdpi/map_marker_blue.png" alt="Map Marker - Blue" /> <img src="http://github.com/geerlingguy/Android-Map-Marker-Drawables/raw/master/drawable-hdpi/map_marker_yellow.png" alt="Map Marker - Yellow" />
+
+(MDPI and LDPI not shown).
 
 ## Usage
 
