@@ -2,6 +2,10 @@
 
 This project contains a standard set of map marker drawables/icons for Android apps. I noticed that there are many different marker icons out there, but couldn't find a nice set (along with a vector graphic, in case I needed to tweak it or add more colors) available anywhere, so I created this set.
 
+## Examples
+
+<img src="https://github.com/geerlingguy/Android-Map-Marker-Drawables/blob/master/drawable-xhdpi/map_marker_red.png" alt="Map Marker - Red" /> <img src="https://github.com/geerlingguy/Android-Map-Marker-Drawables/blob/master/drawable-xhdpi/map_marker_green.png" alt="Map Marker - Green" /> <img src="https://github.com/geerlingguy/Android-Map-Marker-Drawables/blob/master/drawable-xhdpi/map_marker_purple.png" alt="Map Marker - Purple" /> <img src="https://github.com/geerlingguy/Android-Map-Marker-Drawables/blob/master/drawable-xhdpi/map_marker_blue.png" alt="Map Marker - Blue" /> <img src="https://github.com/geerlingguy/Android-Map-Marker-Drawables/blob/master/drawable-xhdpi/map_marker_yellow.png" alt="Map Marker - Yellow" />
+
 ## Usage
 
 Just grab the colored marker graphics out of each of the different drawable resolution folders and place them in your Android project's corresponding drawable folders.
